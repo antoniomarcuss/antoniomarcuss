@@ -1,4 +1,4 @@
-### Olá eu sou o Antonio Marcus 👋
+### Olá, eu me chamo: Antonio Marcus 👋
 
 ![antoniomarcuss GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomarcuss&show_icons=true&theme=radical)
 ### Tecnologias que eu uso no meu dia

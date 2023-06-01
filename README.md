@@ -21,4 +21,5 @@
 Apaixonado por tecnologia 
 
 #### PORTIFOLIO: https://antoniomarcuss.github.io/portifolio/
-![snake gif](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg)
+ -->

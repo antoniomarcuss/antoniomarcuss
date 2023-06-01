@@ -20,5 +20,6 @@
 </div>
 
 Apaixonado por tecnologia 
+![Snake animation](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg)
 
 #### PORTIFOLIO: https://antoniomarcuss.github.io/portifolio/

@@ -1,5 +1,6 @@
 ### Olá, eu me chamo: Antonio Marcus 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniomarcuss&show_icons=true&theme=radical) <br>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=antoniomarcuss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <br>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -21,5 +22,4 @@
 Apaixonado por tecnologia 
 
 #### PORTIFOLIO: https://antoniomarcuss.github.io/portifolio/
-<!-- ![snake gif](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg)
- -->
+<!-- ![Snake animation](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg) -->

@@ -22,4 +22,4 @@
 Apaixonado por tecnologia 
 
 #### PORTIFOLIO: https://antoniomarcuss.github.io/portifolio/
-<!-- ![Snake animation](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/antoniomarcuss/antoniomarcuss/blob/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,9 @@
 ## Olá, eu me chamo Antonio Marcus 👋
+Sou desenvolvedor web com uma paixão por criar experiências digitais que combinam funcionalidade e estética. Tenho uma forte base em React e Next.js, que utilizo para desenvolver interfaces que atendem perfeitamente às necessidades de cada projeto. Para garantir que os sites sejam visualmente atraentes e responsivos, faço uso do Tailwind, assegurando que funcionem de forma impecável em qualquer dispositivo.
+
+Minha jornada no desenvolvimento abrange uma profunda compreensão de HTML, CSS e JavaScript, e sou habilidoso em transformar conceitos de design em interfaces intuitivas e envolventes. Já criei desde E-commerces até formulários de login, loading-pages, entre outros, sempre com foco na usabilidade e na experiência do usuário.
+
+Tenho também experiência na integração de APIs RESTful com Axios e no uso do Firebase-Firestore para gerenciar dados de forma eficiente. O versionamento de código com Git e GitHub faz parte do meu dia a dia, permitindo uma colaboração tranquila em equipe. Além disso, sou adepto das metodologias ágeis, como o Scrum, que ajudam a manter os projetos organizados e dentro dos prazos.
 
  ### Minhas skills
 <div style="display: inline_block"><br>  
